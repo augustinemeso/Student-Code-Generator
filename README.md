@@ -1,7 +1,7 @@
 # Student-Code-Generator
 Simple Javascript program that enables the user to input student marks and the program output the grade based on the marks entered
 
-#### Date, 2024/09/27
+#### Date, 2024/09/28
 
 #### By *Augustine Meso*
 
@@ -21,6 +21,7 @@ Git clone git@github.com:augustinemeso/Student-Code-Generator.git
 
 
 ## Technologies used
+Git
 GitHub
 JavaScript
 ## Support and contact details
