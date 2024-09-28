@@ -23,3 +23,9 @@ Git clone git@github.com:augustinemeso/Student-Code-Generator.git
 ## Technologies used
 GitHub
 JavaScript
+## Support and contact details
+git@github.com:augustinemeso
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
